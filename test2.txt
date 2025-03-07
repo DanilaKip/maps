@@ -4,9 +4,9 @@
     {
       "type": "Feature",
       "properties": {
-        "room_id": "room123",
-        "room_name": "Конференц-зал 1",
-        "capacity": 10
+        "room_id": "13",
+        "room_name": "IT отдел",
+        "capacity": 15
       },
       "geometry": {
         "coordinates": [
@@ -42,6 +42,34 @@
           ]
         ],
         "type": "Polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Igor",
+        "table": "1"
+      },
+      "geometry": {
+        "coordinates": [
+          37.50811067858086,
+          55.73935830394137
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boss",
+        "table": "2"
+      },
+      "geometry": {
+        "coordinates": [
+          37.50847815076443,
+          55.73923855694619
+        ],
+        "type": "Point"
       }
     }
   ]
