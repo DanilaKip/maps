@@ -48,7 +48,8 @@
       "type": "Feature",
       "properties": {
         "name": "Igor",
-        "table": "1"
+        "table": "1",
+        "status": "2"
       },
       "geometry": {
         "coordinates": [
@@ -62,7 +63,8 @@
       "type": "Feature",
       "properties": {
         "name": "Boss",
-        "table": "2"
+        "table": "2",
+        "status": "3"
       },
       "geometry": {
         "coordinates": [
