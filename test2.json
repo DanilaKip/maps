@@ -8,6 +8,8 @@
         "room_name": "IT отдел",
         "capacity": 15,
         "table_id": 3,
+        "Status": 2,
+        "Количество": "",
         "name": "lox"
       },
       "geometry": {
@@ -54,6 +56,8 @@
         "name": "Igor",
         "capacity": 15,
         "room_name": "IT отдел",
+        "Status": 1,
+        "Количество": "",
         "room_id": 14
       },
       "geometry": {
@@ -95,6 +99,8 @@
         "name": "Boss",
         "room_name": "IT отдел",
         "capacity": 10,
+        "Status": 2,
+        "Количество": "",
         "room_id": 15
       },
       "geometry": {
