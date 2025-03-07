@@ -5,8 +5,7 @@
       "type": "Feature",
       "properties": {
         "table_id": "1",
-        "name": "Igor",
-        "capacity": 15
+        "name": "Igor"
       },
       "geometry": {
         "coordinates": [
@@ -87,7 +86,7 @@
       "type": "Feature",
       "properties": {
         "table_id": "2",
-        "name": "Boss",
+        "name": "Boss"
       },
       "geometry": {
         "coordinates": [
